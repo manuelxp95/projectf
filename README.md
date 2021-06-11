@@ -1,3 +1,3 @@
 # PROJECTF README # 
 
-Fun with network commands
+FFun with network commands
